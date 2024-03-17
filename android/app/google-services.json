@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870228919490",
+    "project_id": "insta-pro-firebase",
+    "storage_bucket": "insta-pro-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870228919490:android:23ee80428cc3cccaf8e75b",
+        "android_client_info": {
+          "package_name": "com.example.instafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVBX6vEpqUBNg7eEQv95OP9XRoAjjcgBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
